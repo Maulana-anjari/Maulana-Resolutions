@@ -4,3 +4,4 @@ Resolusi Maulana Anjari Anggorokasih
 - Belajar Laravel dan Codeigniter
 - Menguasai Front End
 - Menguasai penggunaan Git dan GitHub
+- Membuat website portofolio
