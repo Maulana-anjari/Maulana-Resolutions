@@ -2,3 +2,5 @@ Resolusi Maulana Anjari Anggorokasih
 - Belajar HTML, CSS, dan JavaScript
 - Belajar PHP, Java, Python
 - Belajar Laravel dan Codeigniter
+- Menguasai Front End
+- Menguasai penggunaan Git dan GitHub
